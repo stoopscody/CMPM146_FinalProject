@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "id": "lost_traveler",
+        "description": "The traveler asks you for directions to nearest town",
+        "difficulty": "",
+        "rewards": []
+    }
+]

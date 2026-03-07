@@ -53,6 +53,8 @@ class ContentDB:
         self._templates: dict[str, Any] = {}
         self._threads: list[dict[str, Any]] = []
         # TODO: Load JSON files and validate schema contracts for each file.
+        
+        
 
     def get_location(self, location_id: str) -> dict[str, Any]:
         """
